@@ -1,0 +1,28 @@
+A simple Go library which contains methods for displlay go version. 
+
+This repository is at https://github.com/icoderdeg/utilities
+
+Features
+  - Get plain text content (without formatting)
+  - Get Content (including all font and formatting information)
+
+`go get -u github.com/dslipak/utilities`
+
+
+## Read plain text
+
+```golang
+package main
+
+import (
+	"bytes"
+	"fmt"
+
+	"github.com/icoderdeg/utilities"
+)
+
+func main() {
+}
+
+```
+
